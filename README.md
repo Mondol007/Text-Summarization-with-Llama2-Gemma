@@ -1,4 +1,4 @@
-# Text-Summarization-with-Llama2-Gemma
+# Evaluating the Text Summarization Efficiency of Large Language Models
 
 ## This work has been accepted at the 2nd International Conference on Information and Communication Technology (ICICT 2024)
 
